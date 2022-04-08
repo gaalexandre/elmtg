@@ -1,0 +1,22 @@
+It's a package to manage an mtg collection (and more?), well it's the aim at least don't know how much I will do.
+
+Help is always welcome.
+
+Don't know how it will be done, a special mode or something based on org-mode probably.
+
+* TODO Make a true README not a TODO list
+* TODO Add doc in the .el file
+* TODO Add CI
+* TODO Add Tests
+* TODO Communicate with an API to get the cards (scryfall probably)
+* TODO A mode to display a card and its info
+** TODO Display its picture
+** TODO Display its text (edition, mana cost...)
+** TODO Display its price
+** TODO Display the number owned
+** TODO Edit the number owned
+** TODO Edit owned card info (state, location, language, foil and more?)
+* TODO A mode to display a set
+** Display cards name or picture list in order
+** Edit the number of cards owned and their info
+* TODO A mode to display an arbitrary list of cards (collection, deck or search result)
