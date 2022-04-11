@@ -1,12 +1,12 @@
-;;; elmtg.el --- Manage mtg cards collection in Emacs -*- lexical-binding: t -*-
+;;; elmtg.el --- Manage mtg cards collection -*- lexical-binding: t -*-
 
 ;; Copyright © 2022-2022  Alexandre Garand <aran.alexandre@gmail.com>
 
 ;; Author: Alexandre Garand <aran.alexandre@gmail.com>
 ;; URL: https://github.com/gaalexandre/elmtg
-;; Keywords: mtg magic magic-the-gathering
-;; Version: 0.0
-;; Package-Requires: ()
+;; Keywords: files mtg magic magic-the-gathering
+;; Version: 1.0
+;; Package-Requires: ((emacs "24.1"))
 
 ;; This file is NOT part of GNU Emacs.
 
